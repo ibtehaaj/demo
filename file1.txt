@@ -1,2 +1,3 @@
 asjal
 hello world
+fetch and merge
